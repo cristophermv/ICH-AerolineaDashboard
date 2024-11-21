@@ -225,5 +225,5 @@ logoutLink.addEventListener('click', function () {
     // Aquí puedes poner tu lógica para cerrar sesión, por ejemplo:
     alert('Sesión cerrada');
     // O redirigir a una página de login
-    href = '/ICH-AerolineaDashboard.io/Login';
+    href = '/Login';
 });
